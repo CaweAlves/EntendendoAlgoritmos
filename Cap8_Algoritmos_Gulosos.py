@@ -32,7 +32,7 @@ print(estacoes_finais)
 
 
 
-# O QUE PODEMOS FAZER OCM CONJUNTOS
+# O QUE PODEMOS FAZER COM CONJUNTOS
 frutas = set(["abacate", "tomate", "banana"])
 vegetais = set(["beterraba", "cenoura", "tomate"])
 frutas | vegetais # ISSO É UMA UNIÃO
