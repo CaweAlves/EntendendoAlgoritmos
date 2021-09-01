@@ -29,7 +29,7 @@
 #     celula[i][j] = max(celula[i-1][j], celula[i][j-1])
 
 
-# TABELA DA PROGRAMAÇÃO DINAMICA PARA calcular a maior substrings comum entre blue  e clues.
+# TABELA DA PROGRAMAÇÃO DINAMICA PARA calcular a maior substrings comum entre blue e clues.
 #
 #       C  |  L  |  U  |  E  |  S
 # B     0     0     0     0     0 
